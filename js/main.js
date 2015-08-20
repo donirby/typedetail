@@ -14,7 +14,7 @@ $(function(){
 	$('.vote').click(function(e) {
 	    e.preventDefault();
 	    window.open('http://donirby.com/');		
-//	    window.open('http://donirby.net/typography/');
+	    window.open('http://donirby.net/typography/');
 		
 //	    window.open('../index.htm/');
 //	    window.open('http://donirby.net/type');
